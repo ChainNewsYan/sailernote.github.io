@@ -1,5 +1,7 @@
 ---
-
+layout: post
+title: "re - Regular Compression #2"
+date: 2017-09-15
 ---
 
 # re - Regular Conpression #2
