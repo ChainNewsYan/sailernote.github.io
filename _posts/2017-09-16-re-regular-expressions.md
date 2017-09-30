@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "re - Regular Compression #2"
+title: "re - Regular Expression #2"
 date: 2017-09-15
 ---
 
-# re - Regular Conpression #2
+# re - Regular Expression #2
 
 ### Constraining the Search
 
