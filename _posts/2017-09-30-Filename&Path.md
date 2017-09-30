@@ -487,3 +487,14 @@ File        : './broken_link'
 Press ENTER or type command to continue
 ```
 
+## Reference
+
+Pyhon 3 module of the Week. 
+
+os.path - Platform-independent Manipulation of Filenames
+
+Retrieved 2017-09-30
+
+from *PyMOTW-3* ： https://pymotw.com/3/re/index.html
+
+— EOF —
